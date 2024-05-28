@@ -1,0 +1,11 @@
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\bin\Debug\TesteForm.exe.config
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\bin\Debug\TesteForm.exe
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\bin\Debug\TesteForm.pdb
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.Form1.resources
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.Login.resources
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.Properties.Resources.resources
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.csproj.GenerateResource.cache
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.exe
+C:\Users\Tecnico\source\repos\TesteForm\TesteForm\obj\Debug\TesteForm.pdb
